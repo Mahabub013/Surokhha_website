@@ -49,7 +49,7 @@ section{
     width: 100%;
 }
 .sec01{
-    background-image: url(banner.jpg);
+    background-image: url(img/banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 700px;
